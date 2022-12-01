@@ -2,7 +2,6 @@ require 'spreadsheet' # https://github.com/zdavatz/spreadsheet/blob/master/GUIDE
 require 'rubyXL'      # https://github.com/weshatheleopard/rubyXL
 require 'fileutils'
 require 'date'
-require 'byebug'
 
 require "merge_excel/wbook"
 require "merge_excel/sheets"
